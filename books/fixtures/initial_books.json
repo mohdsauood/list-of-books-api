@@ -1,0 +1,52 @@
+[
+  {
+    "model": "books.book",
+    "pk": "11111111-1111-1111-1111-111111111111",
+    "fields": {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "year": 1965,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "22222222-2222-2222-2222-222222222222",
+    "fields": {
+      "title": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year": 1985,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "33333333-3333-3333-3333-333333333333",
+    "fields": {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "44444444-4444-4444-4444-444444444444",
+    "fields": {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": 1953,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": "55555555-5555-5555-5555-555555555555",
+    "fields": {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": 1932,
+      "created_at": "2025-01-01T00:00:00Z"
+    }
+  }
+]
